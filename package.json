@@ -2,6 +2,8 @@
   "name": "api-growdevers-front",
   "version": "1.0.0",
   "main": "index.js",
+  "repository": "https://github.com/lurnakata/api-growdevers-front",
+  "author": "Lucimara",
   "license": "MIT",
   "devDependencies": {
     "@babel/cli": "^7.10.4",

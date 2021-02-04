@@ -2,8 +2,6 @@
   "name": "simple-scrapbook",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/djunior97/simple-scrapbook.git",
-  "author": "dirceuAntunes <dirceu.antunes@garupa.co>",
   "license": "MIT",
   "devDependencies": {
     "@babel/cli": "^7.10.4",
